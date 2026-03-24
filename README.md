@@ -1,1 +1,1 @@
-Exercício simples de manipulação de arquivos com a linguagem python e sua biblioteca os.
+Este projeto demonstra a aplicação prática da biblioteca OS para interação direta com o sistema de arquivos. O script foca na automação de tarefas de I/O (Input/Output), como criação, renomeação e organização de diretórios via código. Diferencial: Demonstra domínio básico de operações de sistema, essenciais para o desenvolvimento de scripts de infraestrutura e automação de rotinas em ambientes de produção.
